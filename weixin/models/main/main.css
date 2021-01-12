@@ -1,0 +1,10 @@
+html{
+	touch-action: pan-y;
+}
+
+.mui-bar-tab .mui-tab-item.mui-active {
+	color: #4CD964;
+}
+.mui-bar-tab{
+	background-color: #f6f6f8;
+}

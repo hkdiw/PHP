@@ -1,0 +1,48 @@
+html,body{
+	background-color: #EFEFF4;
+}
+
+
+.mui-table-view,.mui-media-object {
+	line-height: 42px;
+    
+}
+.list-title{
+	line-height: 42px;
+	height: 28px;
+	display: inline-block;
+}
+.mui-table-view{
+	margin-bottom: 25px;
+}
+.mui-table-view .mui-media-object.mui-pull-left.axa{
+	line-height: 6;
+    max-width: 66px;
+    height: 66px;
+    border: 1px solid #777777;
+    border-radius: 4px;
+}
+
+.mui-media-body.nickname{
+	line-height: 42px;
+	height: 70px;
+	display: inline-block;
+
+}
+
+
+.mui-media-object.mui-pull-right.asa{
+	width: 20px;
+	height: 20px;
+	position: absolute;
+	top: 50%;
+	transform: translateY(-75%);
+	-webkit-transform: translateY(-75%);
+	right: 40px;
+	
+}
+
+.mui-media-object.mui-pull-right.asa>img{
+	width: 100%;
+	height: 100%;
+}

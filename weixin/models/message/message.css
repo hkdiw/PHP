@@ -1,0 +1,11 @@
+.list-time {
+	font-size: 12px;
+	float: right;
+}
+.list-name{
+	font-weight: 600;
+}
+
+html,body{
+	background-color: #FFFFFF;
+}

@@ -1,0 +1,16 @@
+html,body,.mui-content{
+	height: 100%;
+	width: 100%;
+	overflow-y: hidden ;
+}
+.down{
+	height: 100%;
+	width: 100%;
+	text-align: center;
+}
+.up{
+	height: 100%;
+	width: 100%;
+	
+	text-align: center;
+}

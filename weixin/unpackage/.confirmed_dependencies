@@ -1,0 +1,28 @@
+{
+  "index.html": {
+    "href": "index.html",
+    "resources": [
+      "js/mui.min.js",
+      "css/mui.min.css"
+    ],
+    "refer": [],
+    "priority": 0
+  },
+  "models/login/login.html": {
+    "refer": [
+      "models/main/main.html"
+    ],
+    "resources": []
+  },
+  "models/main/main.html": {
+    "resources": [
+      "models/message/message.html"
+    ],
+    "refer": [
+      "models/find/find.html",
+      "models/mine/mine.html",
+      "models/address-book/address-book.html",
+      "models/message/message.html"
+    ]
+  }
+}
